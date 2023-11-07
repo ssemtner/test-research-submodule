@@ -1,5 +1,6 @@
 ---
 layout: research
+permalink: security
 heading: Security and Privacy
 pubtag: Security
 carousels:

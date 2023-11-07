@@ -1,5 +1,6 @@
 ---
 layout: research
+permalink: wireless
 heading: Wireless Sensing
 pubtag: Wireless-Sensing
 carousels:

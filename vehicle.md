@@ -1,5 +1,6 @@
 ---
 layout: research
+permalink: vehicle
 heading: Autonomous Sensing and Systems
 pubtag: Vehicle
 carousels:

@@ -1,5 +1,6 @@
 ---
 layout: research
+permalink: iot
 heading: Ubiquitous IoT
 pubtag: Backscatter
 carousels:

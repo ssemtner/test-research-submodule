@@ -1,5 +1,6 @@
 ---
 layout: research
+permalink: spectrum
 heading: Spectrum Sensing
 pubtag: Spectrum-Sensing
 carousels:
